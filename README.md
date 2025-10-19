@@ -21,13 +21,13 @@ This project demonstrates practical implementation of core C# programming princi
 Language: C#
 Framework: .NET
 Data Structure Used: Dictionary<string, int> for storing student names and grades
-
 Core Concepts Applied:
   Functions and modular code structure
   Loops and conditional statements
   Exception handling
   LINQ methods (Max(), Min(), Average())
   Optional use of enum for grade categorization
+
 
 🧠 Learning Objectives
 
