@@ -18,47 +18,32 @@ This project demonstrates practical implementation of core C# programming princi
 ⚙️ Technical Details
 
 Language: C#
-
 Framework: .NET
-
 Data Structure Used: Dictionary<string, int> for storing student names and grades
 
 Core Concepts Applied:
-
-Functions and modular code structure
-
-Loops and conditional statements
-
-Exception handling
-
-LINQ methods (Max(), Min(), Average())
-
-Optional use of enum for grade categorization
+  Functions and modular code structure
+  Loops and conditional statements
+  Exception handling
+  LINQ methods (Max(), Min(), Average())
+  Optional use of enum for grade categorization
 
 🧠 Learning Objectives
 
 This project reinforces key programming concepts, including:
-
 Working with collections (Dictionary, List)
-
 Implementing control flow and data validation
-
 Handling exceptions gracefully
-
 Designing a menu-driven console application
 
 🚀 How to Run
 
 Open the project in Visual Studio or any C# IDE.
-
 Build and run the program.
-
 Use the menu options displayed in the console to perform desired operations (add, search, display, calculate, etc.).
 
 📈 Future Enhancements
 
 Integration with a database for persistent storage
-
 Graphical User Interface (GUI) using Windows Forms or WPF
-
 Grade categories or performance analysis using enums and reports
