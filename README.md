@@ -9,6 +9,7 @@ This project demonstrates practical implementation of core C# programming princi
 🧩 Features
 
 ✅ Add a Student – Add a student's name and grade into a Dictionary<string, int>.
+
 ✅ Display All Students – View all stored students and their corresponding grades.
 ✅ Search for a Student – Search by name to find a student’s grade, or get notified if not found.
 ✅ Calculate Average Grade – Compute and display the average grade of all students.
