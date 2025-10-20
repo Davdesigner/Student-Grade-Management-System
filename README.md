@@ -60,9 +60,12 @@ Designing a menu-driven console application
 🚀 How to Run
 
 0. Download zip folder
+   
 1.Unzip the project folder.
-2. Open a terminal (PowerShell or Command Prompt) in the project folder.
-3. Run:
+
+3. Open a terminal (PowerShell or Command Prompt) in the project folder.
+   
+5. Run:
    ```
    dotnet run
    ```
