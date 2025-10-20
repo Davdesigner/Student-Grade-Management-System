@@ -59,12 +59,16 @@ Designing a menu-driven console application
 
 🚀 How to Run
 
-Open the project in Visual Studio or any C# IDE.
+0. Download zip folder
+1.Unzip the project folder.
+2. Open a terminal (PowerShell or Command Prompt) in the project folder.
+3. Run:
+   ```
+   dotnet run
+   ```
+   or open the project in Visual Studio and press F5 to run.
 
-Build and run the program.
-
-Use the menu options displayed in the console to perform desired operations (add, search, display, calculate, etc.).
-
+   
 📈 Future Enhancements
 
 
