@@ -4,6 +4,8 @@
 
 The Student Grade Management System is a C# console-based application designed to help manage student records and their grades efficiently. The program allows users to add, display, search, and analyze student data using fundamental programming concepts such as data structures, control flow, functions, and exception handling.
 
+Link to the video demo: https://drive.google.com/file/d/1Rw3_fhPLsyAvLJBWinx7TTyI5nfoctVK/view?usp=sharing 
+
 This project demonstrates practical implementation of core C# programming principles and can serve as a foundation for building more advanced student management systems with a graphical interface or database integration.
 
 🧩 Features
